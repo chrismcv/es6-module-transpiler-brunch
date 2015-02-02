@@ -6,7 +6,7 @@
   "author": "Giovanni Collazo (@gcollazo)",
   "license": "MIT",
   "dependencies": {
-    "es6-module-transpiler": "~0.3.4"
+    "es6-module-transpiler": "*"
   },
   "repository": {
     "type": "git",
